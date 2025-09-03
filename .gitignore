@@ -1,0 +1,6 @@
+export/
+static/
+.venv/
+.vscode/
+__pycache__/
+*.pyc
