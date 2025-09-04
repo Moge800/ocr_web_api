@@ -1,5 +1,5 @@
 # OCR Web API
-![image](https://github.com/Moge800/ocr_web_api/blob/main/web_page.png>raw=true)
+![image](web_page.png)
 ## 概要
 FlaskベースのOCR（光学文字認識）Webアプリケーションです。画像やPDFファイルをアップロードして、日本語対応のOCR処理を行い、結果をCSVとHTMLファイルでダウンロードできます。
 
